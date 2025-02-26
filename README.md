@@ -69,5 +69,4 @@ print("Diabetes Prediction:", prediction)
 
 - Public medical datasets from Kaggle and UCI Machine Learning Repository  
 - Research papers on AI in healthcare diagnostics  
-- Sample dataset links and preprocessing scripts (if required)  
 
