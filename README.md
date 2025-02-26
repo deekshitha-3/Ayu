@@ -4,6 +4,15 @@
 
 The Medical Diagnostic System is an AI-driven application designed to predict various diseases with high accuracy. Using machine learning models, the system helps diagnose conditions like Diabetes, Breast Cancer, Kidney Disease, and Heart Disease. The models have been trained on relevant datasets and saved for deployment, enabling automated, efficient, and reliable medical predictions.
 
+## Model Accuracy
+
+| Disease        | Model Type              | Accuracy  |
+|-------------- |------------------------ |---------- |
+| Diabetes      | Machine Learning Model  | 98.25%    |
+| Breast Cancer | Machine Learning Model  | 98.25%    |
+| Kidney Disease | Machine Learning Model | 99%       |
+| Heart Disease | Machine Learning Model  | 85.25%    |
+
 ### **Technologies Used:**
 
 - Python  
