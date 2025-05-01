@@ -1,0 +1,8 @@
+streamlit
+pymongo
+numpy
+pandas
+scikit-learn
+tensorflow
+pdfplumber  # (if using PDF extraction)
+PyMuPDF
