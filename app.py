@@ -2,14 +2,14 @@ import streamlit as st
 import pandas as pd
 
 # Page config
-st.set_page_config(page_title="PredictiX", page_icon="🩺", layout="centered")
+st.set_page_config(page_title="Ayu", page_icon="🩺", layout="centered")
 
 # Title and Intro
-st.title("🩺 PredictiX")
+st.title("🩺 Ayu")
 st.subheader("AI-Based Medical Diagnosis System")
 
 st.markdown("""
-PredictiX is a unified and intelligent diagnosis system designed to assist in the early detection of critical diseases using Machine Learning and Deep Learning.
+Ayu is a unified and intelligent diagnosis system designed to assist in the early detection of critical diseases using Machine Learning and Deep Learning.
 """)
 
 # Key diseases list
